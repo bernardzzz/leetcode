@@ -1,3 +1,3 @@
 # Leet Code exercises
 
-## Life is so boring, give me some brain teasers
+## Life is short. Why not have some fun?
