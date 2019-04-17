@@ -1,1 +1,1 @@
-mod jewels_and_stones;
+mod n771_jewels_and_stones;
