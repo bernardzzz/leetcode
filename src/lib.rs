@@ -1,2 +1,3 @@
-mod n771_jewels_and_stones;
 mod n1021_remove_outmost_parentheses;
+mod n331_reverse_string;
+mod n771_jewels_and_stones;
